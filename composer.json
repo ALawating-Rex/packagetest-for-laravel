@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Aex\\Toastr\\": "src/"
+            "Aex\\Packagetest\\": "src/"
         }
     }
 }
